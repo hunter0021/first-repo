@@ -12,3 +12,4 @@ test branch
 
 gitgit        
 A
+B
